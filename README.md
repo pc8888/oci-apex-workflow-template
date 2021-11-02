@@ -362,3 +362,5 @@
   ```
 
   *If you use a separate database, it is recommended to use the same SCHEMA and WORKSPACE names, but change the passwords*
+  
+  4. Test it again 
